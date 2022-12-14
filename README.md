@@ -8,7 +8,7 @@
 <img src="https://tenor.com/bhNGB.gif" width="50px">
 
 - 🔭 I’m currently working as an IT technician at PRODEPA - Data Processing Company of the State of Para
-- 🌱 I'm currently learning to become a full-stack developer. HTML /CSS / JavaScript
+- 🌱 I'm currently learning to become a full-stack developer. 
 - 📫 How to reach me: mbm.modesto@gmail.com
 - 😄 Pronouns: EN: she/her PT-BR: ela/dela
 - ⚡ Fun fact: I'm a big fan of Batman 
@@ -24,6 +24,10 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> 
+  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
+  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 <br />
 <hr />
