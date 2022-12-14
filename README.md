@@ -24,8 +24,8 @@ In my free time I like to read, play the guitar, exercise and spend time with th
 </div>
 <br><br>
 <div align="right">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=melissamodesto&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissamodesto&layout=compact&langs_count=7&theme=radical"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=melissamodesto&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissamodesto&layout=compact&langs_count=7&theme=radical"/>
 </div>
    
 ## Some Technologies I'm Learning
