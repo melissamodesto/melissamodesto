@@ -1,33 +1,52 @@
 ## 👋 Hello! Welcome to my Github profile.
-### My name is Melissa Modesto!
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F71D61&width=435&lines=My+name+is+Melissa+Modesto!)](https://git.io/typing-svg)
 
 <!--
   You found a secret! **melissamodesto/melissamodesto** is a ✨ special ✨ repository that you can use to add a README.md to your GitHub profile.
 -->
 
 <img src="https://tenor.com/bhNGB.gif" width="50px">
+<img height="270" width="270" align="right" alt="GIF" src="https://media2.giphy.com/media/nbr4zVb3rQKsIR3o5d/giphy.gif?cid=790b76116a01563ea807aff2d31d21ef2227e14ef2295d74&rid=giphy.gif&ct=g" />
 
-- 🔭 I’m currently working as an IT technician at PRODEPA - Data Processing Company of the State of Para
-- 🌱 I'm currently learning to become a full-stack developer. 
+- 🔭 I’m working as an IT technician at PRODEPA - Data Processing Company of the State of Para
 - 📫 How to reach me: mbm.modesto@gmail.com
 - 😄 Pronouns: EN: she/her PT-BR: ela/dela
 - ⚡ Fun fact: I'm a big fan of Batman 
 
 <div>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=melissamodesto&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissamodesto&layout=compact&langs_count=7&theme=radical"/>
+I'm currently studying Information Systems at the Federal University of Pará and Full Stack Web Development at Driven Education.
+
+It was in college that I had my first contact with programming and that was enough to make me fall in love with the world of web development.
+
+In June 2022, I joined Driven Education's Full Stack Web Development bootcamp, and since then, I've been able to absorb diverse knowledge of hard and soft skills. In addition to carrying out several individual and team projects to consolidate all the knowledge acquired.
+
+In my free time I like to read, play the guitar, exercise and spend time with the people I love.
+</div>
+<br><br>
+<div align="right">
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=melissamodesto&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissamodesto&layout=compact&langs_count=7&theme=radical"/>
 </div>
    
-## I'm learning
+## Some Technologies I'm Learning
 <div style="display: inline_block"><br>
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> 
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <b> Front-End </b> <br><br>
+  <img align="center" alt="React" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Js" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="HTML" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img align="center" alt="VUE" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  <br><br><b> Back-End </b> <br><br>
+  <img align="center" alt="NodeJS" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Express" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img align="center" alt="MongoDB" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> 
+  <img align="center" alt="PostrgreSQL" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
+  <br><br><b> Tools </b> <br><br>
+  <img align="center" alt="GIT" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="VSCode" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="Slack" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
+  <img align="center" alt="Trello" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
+  <img align="center" alt="NPM" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 </div>
 <br />
 <hr />
@@ -36,4 +55,3 @@
     <a href="https://instagram.com/melissamontello" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:mbm.modesto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>   
-
