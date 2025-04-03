@@ -14,13 +14,13 @@
 - ⚡ Fun fact: I'm a big fan of Batman 
 
 <div>
-I'm currently studying Information Systems at the Federal University of Pará and Full Stack Web Development at Driven Education.
+I currently work at the Secretaria da Fazenda do Estado do Pará through FADESP and study Systems Analysis and Development at Universidade Estacio.
 
-It was in college that I had my first contact with programming and that was enough to make me fall in love with the world of web development.
+It was in college that I had my first contact with programming, and that was enough to make me fall in love with the world of web development.
 
-In June 2022, I joined Driven Education's Full Stack Web Development bootcamp, and since then, I've been able to absorb diverse knowledge of hard and soft skills. In addition to carrying out several individual and team projects to consolidate all the knowledge acquired.
+In June 2022, I joined Driven Education's Full Stack Web Development bootcamp, and since then, I've absorbed diverse knowledge in both hard and soft skills. I've also worked on several individual and team projects to consolidate everything I've learned.
 
-In my free time I like to read, play the guitar, exercise and spend time with the people I love.
+In my free time, I enjoy reading, playing the guitar, exercising, and spending time with the people I love.
 </div>
 <br><br>
 <div align="right">
