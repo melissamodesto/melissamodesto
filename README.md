@@ -8,17 +8,17 @@
 <img src="https://tenor.com/bhNGB.gif" width="50px">
 <img height="270" width="270" align="right" alt="GIF" src="https://media2.giphy.com/media/nbr4zVb3rQKsIR3o5d/giphy.gif?cid=790b76116a01563ea807aff2d31d21ef2227e14ef2295d74&rid=giphy.gif&ct=g" />
 
-- 🔭 I’m working as an IT technician at PRODEPA - Data Processing Company of the State of Para
+- 🔭 I’m working as an IT technician at SEFA - Department of Finance of the State of Para
 - 📫 How to reach me: mbm.modesto@gmail.com
 - 😄 Pronouns: EN: she/her PT-BR: ela/dela
 - ⚡ Fun fact: I'm a big fan of Batman 
 
 <div>
-I currently work at the Secretaria da Fazenda do Estado do Pará through FADESP and study Systems Analysis and Development at Universidade Estacio.
+I currently work at the Department of Finance of the State of Para through FADESP and study Systems Analysis and Development at Estacio University.
 
 It was in college that I had my first contact with programming, and that was enough to make me fall in love with the world of web development.
 
-In June 2022, I joined Driven Education's Full Stack Web Development bootcamp, and since then, I've absorbed diverse knowledge in both hard and soft skills. I've also worked on several individual and team projects to consolidate everything I've learned.
+In June 2022, I joined Driven Education's Full Stack Web Development bootcamp, and since then, I have been absorbing diverse knowledge in both hard and soft skills. I have also worked on several individual and team projects to consolidate everything I have learned.
 
 In my free time, I enjoy reading, playing the guitar, exercising, and spending time with the people I love.
 </div>
